@@ -585,6 +585,73 @@ def main():
         max-width: 205px;
       }
     }
+
+    body.embed-mode #panel {
+      top: 8px;
+      left: 8px;
+      width: 360px;
+      max-width: calc(100vw - 28px);
+      max-height: 190px;
+      overflow-y: auto;
+      padding: 10px;
+    }
+
+    body.embed-mode #panel h2 {
+      font-size: 16px;
+      margin-bottom: 2px;
+    }
+
+    body.embed-mode .last-checked {
+      font-size: 11px;
+      margin-bottom: 6px;
+    }
+
+    body.embed-mode label {
+      font-size: 12px;
+      margin-top: 5px;
+      margin-bottom: 2px;
+    }
+
+    body.embed-mode select {
+      font-size: 13px;
+      padding: 5px;
+    }
+
+    body.embed-mode #detailsToggle {
+      display: block;
+      padding: 6px;
+      margin-top: 7px;
+    }
+
+    body.embed-mode #panel:not(.expanded) #summary,
+    body.embed-mode #panel:not(.expanded) #legend {
+      display: none;
+    }
+
+    body.embed-mode #panel.expanded {
+      max-height: 72vh;
+    }
+
+    body.embed-mode .leaflet-top.leaflet-left {
+      top: 205px;
+    }
+
+    @media (max-width: 700px) {
+      body.embed-mode #panel {
+        width: auto;
+        right: 8px;
+        max-height: 180px;
+      }
+
+      body.embed-mode #panel.expanded {
+        max-height: 68vh;
+      }
+
+      body.embed-mode .leaflet-top.leaflet-left {
+        top: 195px;
+      }
+    }
+
   </style>
 </head>
 
@@ -621,6 +688,12 @@ def main():
     const detailsToggle = document.getElementById("detailsToggle");
     const summaryDiv = document.getElementById("summary");
     const legendDiv = document.getElementById("legend");
+
+    const isEmbedMode = new URLSearchParams(window.location.search).get("embed") === "1";
+
+    if (isEmbedMode) {
+      document.body.classList.add("embed-mode");
+    }
 
     const map = L.map("map");
 
