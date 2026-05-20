@@ -10,3 +10,6 @@ output/maps_rep/
 
 # Built local dashboard copy
 output/primary_results_dashboard.html
+
+# Selenium/downloaded election files
+downloads/
