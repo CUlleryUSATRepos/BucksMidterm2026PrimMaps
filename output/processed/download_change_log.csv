@@ -26,3 +26,4 @@ checked_at,status,old_total_votes,new_total_votes,delta_total_votes,changed_rows
 2026-05-19 10:47:02 PM,changed,1353613,1410033,56420,1438,20,86,C:\Users\Chris Ullery\PycharmProjects\BucksMidterm2026PrimMaps\downloads\Precincts_23 (25).csv
 2026-05-19 10:52:28 PM,no_change,1410033,1410033,0,0,0,0,C:\Users\Chris Ullery\PycharmProjects\BucksMidterm2026PrimMaps\downloads\Precincts_23 (26).csv
 2026-05-19 10:57:48 PM,no_change,1410033,1410033,0,0,0,0,C:\Users\Chris Ullery\PycharmProjects\BucksMidterm2026PrimMaps\downloads\Precincts_23 (27).csv
+2026-05-19 11:03:07 PM,changed,1410033,1482739,72706,2194,31,114,C:\Users\Chris Ullery\PycharmProjects\BucksMidterm2026PrimMaps\downloads\Precincts_23 (28).csv
