@@ -7,3 +7,6 @@ __pycache__/
 # Optional local clutter
 output/maps_dem/
 output/maps_rep/
+
+# Built local dashboard copy
+output/primary_results_dashboard.html
