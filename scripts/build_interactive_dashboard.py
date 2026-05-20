@@ -1,6 +1,8 @@
 ﻿from pathlib import Path
 import json
 import re
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import geopandas as gpd
@@ -14,6 +16,8 @@ PARTY_COUNTS_CSV = ROOT / "dashboard_source" / "precinct_split_party_counts.csv"
 OUT_HTML = ROOT / "output" / "primary_results_dashboard.html"
 
 MIN_PRECINCTS = 10
+_now = datetime.now(ZoneInfo("America/New_York"))
+LAST_CHECKED = f"{_now.strftime('%b.')} {_now.day}, {_now.year} at {_now.strftime('%I:%M:%S %p').lstrip('0')}"
 
 
 def slugify(s):
@@ -199,9 +203,14 @@ def main():
         )
     )
 
+    # Keep normal Dem/Rep contests, but drop party committee races.
+    # Those are high-volume internal party races and clutter the dropdown.
     contest_summary = contest_summary[
         contest_summary["contest_party"].isin(["Dem", "Rep"])
         & contest_summary["precincts"].ge(MIN_PRECINCTS)
+        & ~contest_summary["contest_base"].str.contains("STATE COMMITTEE", case=False, na=False)
+        & ~contest_summary["contest_base"].str.contains("REPUBLICAN STATE COMMITTEE", case=False, na=False)
+        & ~contest_summary["contest_base"].str.contains("DEMOCRATIC STATE COMMITTEE", case=False, na=False)
     ].copy()
 
     print("Contests included:", len(contest_summary))
@@ -274,8 +283,14 @@ def main():
     }
 
     #panel h2 {
-      margin: 0 0 8px 0;
+      margin: 0 0 4px 0;
       font-size: 18px;
+    }
+
+    .last-checked {
+      font-size: 12px;
+      color: #555;
+      margin-bottom: 8px;
     }
 
     label {
@@ -576,6 +591,7 @@ def main():
 <body>
   <div id="panel">
     <h2>Bucks County primary results</h2>
+    <div class="last-checked">Last checked: __LAST_CHECKED__</div>
 
     <label for="partySelect">Primary</label>
     <select id="partySelect">
@@ -887,6 +903,7 @@ def main():
         .replace("__PRECINCT_GEOJSON__", json.dumps(precinct_geojson))
         .replace("__CONTESTS__", json.dumps(contests))
         .replace("__CONTEST_DATA__", json.dumps(contest_data))
+        .replace("__LAST_CHECKED__", LAST_CHECKED)
     )
 
     OUT_HTML.parent.mkdir(parents=True, exist_ok=True)
