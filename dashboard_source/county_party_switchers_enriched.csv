@@ -1,0 +1,2 @@
+county_1,D_to_Oth,D_to_R,Oth_to_D,Oth_to_R,R_to_D,R_to_Oth,total_switch,D_gain,D_loss,R_gain,R_loss,Oth_gain,Oth_loss,D,R,Oth,D_net,R_net,Oth_net,D_flip_pct,R_flip_pct,Oth_flip_pct
+BUCKS,2368,2462,2287,1973,1738,1849,12677,4025,4830,4435,3587,4217,4260,,,,-805,848,-43,,,

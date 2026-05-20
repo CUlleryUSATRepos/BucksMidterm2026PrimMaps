@@ -1,0 +1,305 @@
+precinct_code,municipality_district,polling_place,full_address,post_office
+01010,Bedminster Twp. East,Deep Run Mennonite Church East,350 Kellers Church Rd Perkasie PA 18944,Perkasie
+01020,Bedminster Twp. West,Deep Run Presbyterian Church,16 Irish Meeting House Rd Perkasie Pa 18944,Perkasie
+02011,Bensalem Twp. Lower East 1,Russell C. Struble Elementary School,4300 Bensalem Blvd Bensalem PA 19020,Bensalem
+02012,Bensalem Twp. Lower East 2,Robert Shafer Middle School,3333 Hulmeville Rd Bensalem PA 19020,Bensalem
+02013,Bensalem Twp. Lower East 3,Robert Shafer Middle School,3333 Hulmeville Rd Bensalem PA 19020,Bensalem
+02014,Bensalem Twp. Lower East 4,Cecelia Snyder Middle School,3330 Hulmeville Rd Bensalem PA 19020,Bensalem
+02015,Bensalem Twp. Lower East 5,Bensalem High School,4319 Hulmeville Rd Bensalem PA 19020,Bensalem
+02016,Bensalem Twp. Lower East 6,Bensalem High School,4319 Hulmeville Rd Bensalem PA 19020,Bensalem
+02017,Bensalem Twp. Lower East 7,Russell C. Struble Elementary School,4300 Bensalem Blvd Bensalem PA 19020,Bensalem
+02018,Bensalem Twp. Lower East 8,Bensalem High School,4319 Hulmeville Rd Bensalem PA 19020,Bensalem
+02021,Bensalem Twp. Lower Middle 1,Union Fire Company,2067 State Rd Bensalem PA 19020,Bensalem
+02022,Bensalem Twp. Lower Middle 2,Cornwell Elementary School,2215 Hulmeville Rd Bensalem PA 19020,Bensalem
+02023,Bensalem Twp. Lower Middle 3,Cornwells Elementary School,2215 Hulmeville Rd Bensalem PA 19020,Bensalem
+02024,Bensalem Twp. Lower Middle 4,Bucks County Free Library Bensalem Branch,3700 Hulmeville Rd Bensalem PA 19020,Bensalem
+02025,Bensalem Twp. Lower Middle 5,Bucks County Free Library Bensalem Branch,3700 Hulmeville Rd Bensalem PA 19020,Bensalem
+02030,Bensalem Twp. Lower West,Salem Harbor Apts.,463 Old Bridge Rd Bensalem PA 19020,Bensalem
+02040,Bensalem Twp. Upper West,Kings Library Church of the Redeemer,1065 Bristol Pike Bensalem PA 19020,Bensalem
+02051,Bensalem Twp. Upper 1,Trevose Fire Company,4900 E Street Rd Trevose PA 19053,Trevose
+02052,Bensalem Twp. Upper 2,Samuel K. Faust Elementary School,2901 Bellview Dr Bensalem PA 19020,Bensalem
+02053,Bensalem Twp. Upper 3,Trevose Fire Company,4900 E Street Rd Trevose PA 19053,Trevose
+02054,Bensalem Twp. Upper 4,Belmont Hills Elementary School,5000 Neshaminy Blvd Bensalem PA 19020,Bensalem
+02055,Bensalem Twp. Upper 5,Samuel K. Faust Elementary School,2901 Bellview Dr Bensalem PA 19020,Bensalem
+02056,Bensalem Twp. Upper 6,Valley Elementary School,3100 Donallen Dr Bensalem PA 19020,Bensalem
+02057,Bensalem Twp. Upper 7,Belmont Hills Elementary School,5000 Neshaminy Blvd Bensalem PA 19020,Bensalem
+02058,Bensalem Twp. Upper 8,Belmont Hills Elementary School,5000 Neshaminy Blvd Bensalem PA 19020,Bensalem
+02059,Bensalem Twp. Upper 9,Valley Elementary School,3100 Donallen Dr Bensalem PA 19020,Bensalem
+02060,Bensalem Twp. Upper 10,Valley Elementary School,3100 Donallen Dr Bensalem PA 19020,Bensalem
+02061,Bensalem Twp. Upper 11,Cecelia Snyder Middle School,3330 Hulmeville Rd Bensalem PA 19020,Bensalem
+02062,Bensalem Twp. Upper 12,Belmont Hills Elementary School,5000 Neshaminy Blvd Bensalem PA 19020,Bensalem
+03000,Bridgeton Twp.,Bridgeton Twp Building,1370 Bridgeton Hill Rd Upper Black Eddy PA 18972,Upper Black Eddy
+04011,Bristol Borough North 1,Ancient Order of the Hibernians,614 Corson St Bristol PA 19007,Bristol
+04012,Bristol Borough North 2,Ancient Order of the Hibernians,614 Corson St Bristol PA 19007,Bristol
+04021,Bristol Borough East 1,Bristol Borough Junior/Senior High School,1801 Wilson Ave Bristol PA 19007,Bristol
+04022,Bristol Borough East 2,Bristol Borough Junior/Senior High School,1801 Wilson Ave Bristol PA 19007,Bristol
+04031,Bristol Borough West 1,Snyder-Girotti Elementary School,450 Beaver St Bristol PA 19007,Bristol
+04032,Bristol Borough West 2,Snyder-Girotti Elementary School,450 Beaver St Bristol PA 19007,Bristol
+04033,Bristol Borough West 3,Snyder-Girotti Elementary School,450 Beaver St Bristol PA 19007,Bristol
+04041,Bristol Borough South 1,St Ann Worship Site,357 Dorrance St Bristol PA 19007,Bristol
+04042,Bristol Borough South 2,St Ann Worship Site,357 Dorrance St Bristol PA 19007,Bristol
+04043,Bristol Borough South 3,St Ann Worship Site,357 Dorrance St Bristol PA 19007,Bristol
+05011,Bristol Twp. 1 - 1,VFW Post 1597,901 Bellevue Ave Croydon PA 19021,Croydon
+05012,Bristol Twp. 1 - 2,Keystone Elementary School,1800 Keystone Street Croydon PA 19021,Croydon
+05013,Bristol Twp. 1 - 3,Keystone Elementary School,1800 Keystone Street Croydon PA 19021,Croydon
+05021,Bristol Twp. 2 - 1,Newportville Fire Company #1,2425 New Falls Rd Newportville PA 19056,Newportville
+05022,Bristol Twp. 2 - 2,Newportville Fire Company #1,2425 New Falls Rd Newportville PA 19056,Newportville
+05023,Bristol Twp. 2 - 3,Harry S Truman High School,3001 Green Ln Levittown PA 19057,Levittown
+05031,Bristol Twp. 3 - 1,Bristol Township Municipal Building,2501 Bath Rd Bristol PA 19007,Levittown
+05032,Bristol Twp. 3 - 2,Bristol Township Municipal Building,2501 Bath Rd Bristol PA 19007,Levittown
+05033,Bristol Twp. 3 - 3,Bucks County Community College - Lower Bucks,1304 Veterans Hwy Bristol PA 19007,Bristol
+05041,Bristol Twp. 4 - 1,Bucks County Community College - Lower Bucks,1304 Veterans Hwy Bristol PA 19007,Bristol
+05042,Bristol Twp. 4 - 2,Bucks County Community College - Lower Bucks,1304 Veterans Hwy Bristol PA 19007,Bristol
+05043,Bristol Twp. 4 - 3,Bucks County Community College - Lower Bucks,1304 Veterans Hwy Bristol PA 19007,Briston
+05051,Bristol Twp. 5 - 1,Delaware valley Vietnam Veterans,800 Coates Ave Bristol PA 19007,Bristol
+05052,Bristol Twp. 5 - 2,Mill Creek Elem School,6501 Mill Creek Rd Levittown PA 19057,Levittown
+05061,Bristol Twp. 6 - 1,Bucks County Free Library,7311 New Falls Rd Levittown PA 19055,Levittown
+05062,Bristol Twp. 6 - 2,Mill Creek Elem School,6501 Mill Creek Rd Levittown PA 19057,Levittown
+05063,Bristol Twp. 6 - 3,Harry S Truman High School,3001 Green Ln Levittown PA 19057,Levittown
+05071,Bristol Twp. 7 - 1,Brookwood Elem School,2200 Haines Rd Levittown PA 19055,Levittown
+05072,Bristol Twp. 7 - 2,Mill Creek Elem School,6501 Mill Creek Rd Levittown PA 19057,Levittown
+05081,Bristol Twp. 8 - 1,Ben Franklin Middle School,6403 Mill Creek Rd Levittown PA 19057,Levittown
+05082,Bristol Twp. 8 - 2,Bucks County Government Services Center,7321 New Falls Rd Levittown PA 19055,Levittown
+05091,Bristol Twp. 9 - 1,Neil A. Armstrong Middle School,475 Wistar Rd Fairless Hills PA 19030,Fairless Hills
+05092,Bristol Twp. 9 - 2,Neil A. Armstrong Middle School,475 Wistar Rd Fairless Hills PA 19030,Fairless Hills
+05093,Bristol Twp. 9 - 3,Neil A. Armstrong Middle School,475 Wistar Rd Fairless Hills PA 19030,Fairless Hills
+05101,Bristol Twp. 10 - 1,Harry S Truman High School,3001 Green Ln Levittown PA 19057,Levittown
+05102,Bristol Twp. 10 - 2,Harry S Truman High School,3001 Green Ln Levittown PA 19057,Levittown
+05103,Bristol Twp. 10 - 3,Harry S Truman High School,3001 Green Ln Levittown PA 19057,Levittown
+05111,Bristol Twp. 11 - 1,Brookwood Elem School,2200 Haines Rd Levittown PA 19055,Levittown
+05112,Bristol Twp. 11 - 2,Brookwood Elem School,2200 Haines Rd Levittown PA 19055,Levittown
+06011,Buckingham Twp. Lower 1,Forest Grove Presbyterian Church,1856 Forest Grove Rd Forest Grove PA 18922,Forest Grove
+06012,Buckingham Twp. Lower 2,Buckingham Springs Clubhouse,1490 Durham Rd New Hope PA 18938,New Hope
+06021,Buckingham Twp. Middle 1,Buckingham Township Building,4613 Hughesian Dr Buckingham PA 18912,Buckingham
+06022,Buckingham Twp. Middle 2,Buckingham Township Building,4613 Hughesian Dr Buckingham PA 18912,Buckingham
+06031,Buckingham Twp. Upper 1,Covenant Presbyterian Church,4000 Route 202 Doylestown PA 18902,Doylestown
+06032,Buckingham Twp. Upper 2,Central Bucks High School East,2804 Holicong Rd Doylestown PA 18902,Doylestown
+06033,Buckingham Twp. Upper 3,Cold Spring Elementary School,4150 Durham Rd Doylestown PA 18902,Doylestown
+06034,Buckingham Twp. Upper 4,Cold Spring Elementary School,4150 Durham Rd Doylestown PA 18902,Doylestown
+07000,Chalfont Borough,Chalfont United Methodist Church,11 Meadowbrook Ln Chalfont PA 18914,Chalfont
+08011,Doylestown Borough 1 - 1,Bucks County Bar Association,135 E State St Doylestown PA 18901,Doylestown
+08012,Doylestown Borough 1 - 2,Salem United Church of Christ,186 E Court St Doylestown PA 18901,Doylestown
+08021,Doylestown Borough 2 - 1,Doylestown Fire Company #1,68 Shewell Ave Doylestown PA 18901,Doylestown
+08022,Doylestown Borough 2 - 2,Wesley Enhanced Living,200 Veterans Ln Doylestown PA 18901,Doylestown
+08031,Doylestown Borough 3 - 1,Doylestown Borough Hall Municipal Building,10 Doyle St Doylestown PA 18901,Doylestown
+08032,Doylestown Borough 3 - 2,Boy Scout Council,1 Scout Way Doylestown PA 18901,Doylestown
+09010,Doylestown Twp. District 1,Doylestown Township Building,425 Wells Rd Doylestown PA 18901,Doylestown
+09020,Doylestown Twp. District 2,Pine Run Community Building,777 Ferry Rd Doylestown PA 18901,Doylestown
+09030,Doylestown Twp. District 3,Bucks County Public Safety Training Center,1760 S. Easton Road Doylestown PA 18901,Doylestown
+09040,Doylestown Twp. District 4,Bucks County Public Safety Training Center,1760 S. Easton Road Doylestown PA 18901,Doylestown
+09050,Doylestown Twp. District 5,Central Bucks Community Senior Center Large Room,700 N Shady Retreat Rd Doylestown PA 18901,Doylestown
+09060,Doylestown Twp. District 6,Central Bucks Community Senior Center Large Room,700 N Shady Retreat Rd Doylestown PA 18901,Doylestown
+09070,Doylestown Twp. District 7,Grundy Hall,1290 Almshouse Rd Doylestown PA 18901,Doylestown
+09080,Doylestown Twp. District 8,Doylestown Township Building,425 Wells Rd Doylestown PA 18901,Doylestown
+10000,Dublin Borough,Dublin Fire House,194 N Main St Dublin PA 18917,Dublin
+11000,Durham Twp.,Durham Township Building,215 Old Furnace Rd Durham PA 18039,Durham
+12010,East Rockhill Twp. District 1,Bucks County Community College - Upper Bucks,1 Hillendale Rd Perkasie PA 18944,Perkasie
+12020,East Rockhill Twp. District 2,Bucks County Community College - Upper Bucks,1 Hillendale Rd Perkasie PA 18944,Perkasie
+13011,Falls Twp. 1 - 1,Fallsington Elementary School,134 Yardley Ave Fallsington PA 19054,Fallsington
+13012,Falls Twp. 1 - 2,Pennsbury West High School,608 S Olds Blvd Fairless Hills PA 19030,Fairless Hills
+13013,Falls Twp. 1 - 3,Eleanor Roosevelt Elementary School,185 Walton Dr Morrisville PA 19067,Morrisville
+13014,Falls Twp. 1 - 4,Village Park Elementary School,75 Unity Dr Fairless Hills PA 19030,Fairless Hills
+13015,Falls Twp. 1 - 5,Eleanor Roosevelt Elementary School,185 Walton Dr Morrisville PA 19067,Morrisville
+13016,Falls Twp. 1 - 6,Eleanor Roosevelt Elementary School,185 Walton Dr Morrisville PA 19067,Morrisville
+13017,Falls Twp. 1 - 7,Fallsington Elementary School,134 Yardley Ave Fallsington PA 19054,Fallsington
+13021,Falls Twp. 2 - 1,Oxford Valley Elementary School,430 Trenton Rd Fairless Hills PA 19030,Fairless Hills
+13022,Falls Twp. 2 - 2,Pennsbury West High School,608 S Olds Blvd Fairless Hills PA 19030,Fairless Hills
+13031,Falls Twp. 3 - 1,Oxford Valley Elementary School,430 Trenton Rd Fairless Hills PA 19030,Fairless Hills
+13032,Falls Twp. 3 - 2,Pennsbury West High School,608 S Olds Blvd Fairless Hills PA 19030,Fairless Hills
+13041,Falls Twp. 4 - 1,St. Paul's Episcopal Church,89 Pinewood Dr Levittown PA 19054,Levittown
+13042,Falls Twp. 4 - 2,Penn Valley Elementary School,180 North Turn Ln Levittown PA 19054,Levittown
+13043,Falls Twp. 4 - 3,Manor Elementary School,401 Penn Valley Rd Levittown PA 19054,Levittown
+13044,Falls Twp. 4 - 4,Penn Valley Elementary School,180 North Turn Ln Levittown PA 19054,Levittown
+13045,Falls Twp. 4 - 5,Penn Valley Elementary School,180 North Turn Ln Levittown PA 19054,Levittown
+13046,Falls Twp. 4 - 6,Manor Elementary School,401 Penn Valley Rd Levittown PA 19054,Levittown
+13047,Falls Twp. 4 - 7,Manor Elementary School,401 Penn Valley Rd Levittown PA 19054,Levittown
+14000,Haycock Twp.,Haycock Township Community Center,1014 Old Bethlehem Rd Quakertown PA 18951,Quakertown
+15011,Hilltown Twp. Blooming Glen 1,Blooming Glen Mennonite church,713 Blooming Glen Rd Blooming Glen PA 18911,Blooming Glen
+15012,Hilltown Twp. Blooming Glen 2,Hilltown Township Municipal Building,13 W Creamery Rd Hilltown Township PA 18927,Hilltown
+15013,Hilltown Twp. Blooming Glen 3,Hilltown Township Municipal Building,13 W Creamery Rd Hilltown Township PA 18927,Hilltown
+15021,Hilltown Twp. Fairhill 1,Calvary Church of Souderton,"820 Pa-113, Souderton, PA 18964",Souderton
+15022,Hilltown Twp. Fairhill 2,St. Peter's Lutheran Church,1530 Augsburg Dr Hilltown PA 18927,Hilltown
+15030,Hilltown Twp. Hilltown,Hilltown Baptist Church,26 Upper Church Rd Chalfont PA 18914,Chalfont
+16000,Hulmeville Borough,William Penn Fire Company,123 Main St Hulmeville PA 19047,Hulmeville
+17000,Ivyland Borough,Ivyland Presbyterian Church,51 Gough Ave Ivyland PA 18974,Ivyland
+18000,Langhorne Borough,Pennwood Library,301 S Pine St Langhorne PA 19047,Langhorne
+19000,Langhorne Manor Boro,Langhorne Manor Municipal Building,618 Hulmeville Ave Langhorne PA 19047,Langhorne
+20011,Lower Makefield Twp. North 1,Afton Elementary School,1673 Quarry Rd Yardley PA 19067,Yardley
+20012,Lower Makefield Twp. North 2,Afton Elementary School,1673 Quarry Rd Yardley PA 19067,Yardley
+20013,Lower Makefield Twp. North 3,Afton Elementary School,1673 Quarry Rd Yardley PA 19067,Yardley
+20014,Lower Makefield Twp. North 4,Lower Makefield Township Building,1100 Edgewood Rd Yardley PA 19067,Yardley
+20015,Lower Makefield Twp. North 5,Woodside Church,1667 Edgewood Rd Yardley PA 19067,Yardley
+20016,Lower Makefield Twp. North 6,Woodside Church,1667 Edgewood Rd Yardley PA 19067,Yardley
+20021,Lower Makefield Twp. South 1,Makefield Elementary School,1939 Makefield Rd Yardley PA 19067,Yardley
+20022,Lower Makefield Twp. South 2,Pennwood Middle School,1523 Makefield Rd Yardley PA 19067,Yardley
+20023,Lower Makefield Twp. South 3,Makefield Elementary School,1939 Makefield Rd Yardley PA 19067,Yardley
+20024,Lower Makefield Twp. South 4,Charles Boehm Middle School,866 Big Oak Rd Yardley PA 19067,Yardley
+20025,Lower Makefield Twp. South 5,Edgewood Elementary School,899 Oxford Valley Rd Morrisville PA 19067,Yardley
+20026,Lower Makefield Twp. South 6,Edgewood Elementary School,899 Oxford Valley Rd Morrisville PA 19067,Yardley
+20027,Lower Makefield Twp. South 7,Pennwood Middle School,1523 Makefield Rd Yardley PA 19067,Yardley
+20028,Lower Makefield Twp. South 8,Edgewood Elementary School,899 Oxford Valley Rd Morrisville PA 19067,Yardley
+20029,Lower Makefield Twp. South 9,Charles Boehm Middle School,866 Big Oak Rd Yardley PA 19067,Yardley
+21011,Lower Southampton Twp. East 1,Lower Southampton Early Learning Center,7 School Ln Feasterville Trevose PA 19053,Feasterville
+21012,Lower Southampton Twp. East 2,Sarah Mitchell Comm. Cent.,1500 Desire Ave Feasterville Trevose PA 19053,Feasterville
+21013,Lower Southampton Twp. East 3,Tawanka Learning Center,2055 Brownsville Rd Langhorne PA 19053,Langhorne
+21014,Lower Southampton Twp. East 4,Neshaminy Senior Center,1842 Brownsville Rd Feasterville Trevose PA 19053,Trevose
+21015,Lower Southampton Twp. East 5,Scottsville United Methodist Church,2400 Brownsville Rd Langhorne PA 19053,Langhorne
+21021,Lower Southampton Twp. West 1,Somerton Springs Ballroom,50 Bustleton Pike Feasterville Trevose PA 19053,Feasterville
+21022,Lower Southampton Twp. West 2,Russell Elliot Recreation Field Building,150 Buck Rd Feasterville -Trevose PA 19053,Feasterville
+21023,Lower Southampton Twp. West 3,Poquessing Middle School,300 Heights Ln Feasterville-Trevose PA 19053,Feasterville
+21024,Lower Southampton Twp. West 4,Joseph Ferderbar Elementary School,300 Heights Ln Feasterville-Trevose PA 19053,Feasterville
+21025,Lower Southampton Twp. West 5,Joseph Ferderbar Elementary School,300 Heights Ln Feasterville-Trevose PA 19053,Feasterville
+21026,Lower Southampton Twp. West 6,Feasterville Fire House,20 Irving Pl Feasterville Trevose PA 19053,Feasterville
+21027,Lower Southampton Twp. West 7,Somerton Springs Ballroom,50 Bustleton Pike Feasterville Trevose PA 19053,Feasterville
+22010,Middletown Twp. Lower 1,Parkland Fire Company,831 Avenue D Langhorne PA 19047,Parkland
+22020,Middletown Twp. Lower 2,Herbert Hoover Elementary School,501 Trenton Rd Langhorne PA 19047,Langhorne
+22030,Middletown Twp. Lower 3,Walter S. Miller Elementary School,10 Cobalt Ridge Dr S Levittown PA 19057,Levittown
+22040,Middletown Twp. Lower 4,Walter S. Miller Elementary School,10 Cobalt Ridge Dr S Levittown PA 19057,Levittown
+22050,Middletown Twp. Lower 5,Bucks IU22 @ Samuel Everitt Elementary School,145 Forsythia Dr S Levittown PA 19056,Levittown
+22060,Middletown Twp. Lower 6,Emmaus Road Lutheran Church,2185 Bristol Oxford Valley Rd Levittown PA 19057,Levittown
+22070,Middletown Twp. Lower 7,Sandburg Middle School,30 Harmony Rd Levittown PA 19056,Levittown
+22080,Middletown Twp. Lower 8,Middletown Senior Citizens Association,2142 Trenton Rd Levittown PA 19056,Levittown
+22090,Middletown Twp. Lower 9,Emmaus Road Lutheran Church,2185 Bristol Oxford Valley Rd Levittown PA 19057,Levittown
+22100,Middletown Twp. Lower 10,Bucks IU22 @ Samuel Everitt Elementary School,145 Forsythia Dr S Levittown PA 19056,Levittown
+22110,Middletown Twp. Lower 11,Sandburg Middle School,30 Harmony Rd Levittown PA 19056,Levittown
+22120,Middletown Twp. Lower 12,Bucks IU22 @ Samuel Everitt Elementary School,145 Forsythia Dr S Levittown PA 19056,Levittown
+22130,Middletown Twp. Lower 13,Herbert Hoover Elementary School,501 Trenton Rd Langhorne PA 19047,Langhorne
+22210,Middletown Twp. Upper 1,Middletown Township Building,3 Municipal Way Langhorne PA 19047,Langhorne
+22220,Middletown Twp. Upper 2,Neshaminy High School,2001 Old Lincoln Hwy Langhorne PA 19047,Langhorne
+22230,Middletown Twp. Upper 3,Maple Point Middle School,"2250 Langhorne Yardley Road, Langhorne, PA 19047",Langhorne
+22240,Middletown Twp. Upper 4,Neshaminy High School,2001 Old Lincoln Hwy Langhorne PA 19047,Langhorne
+22250,Middletown Twp. Upper 5,Beechwood Neuro Rehab,469 E Maple Ave Langhorne PA 19047,Langhorne
+22260,Middletown Twp. Upper 6,Maple Point Middle School,2250 Langhorne Yardley Rd Langhorne PA 19047,Langhorne
+22270,Middletown Twp. Upper 7,Maple Point Middle School,2250 Langhorne Yardley Rd Langhorne PA 19047,Langhorne
+22280,Middletown Twp. Upper 8,Maple Point Middle School,2250 Langhorne Yardley Rd Langhorne PA 19047,Langhorne
+22290,Middletown Twp. Upper 9,Middletown Township Building,3 Municipal Way Langhorne PA 19047,Langhorne
+23010,Milford Twp. Roeder,Mumbauersville Rod & Gun Club,1911 Klines Mill Rd Pennsburg PA 18073,Pennsburg
+23020,Milford Twp. Roseville,East Swamp church youth center,2405 E Swamp Rd Quakertown PA 18951,Quakertown
+23030,Milford Twp. Shelly,Milford Township Building,2100 Krammes Rd Quakertown PA 18951,Quakertown
+23040,Milford Twp. Trumbauersville,Quakertown United Methodist,1875 Freier Rd Quakertown PA 18951,Quakertown
+24010,Morrisville Borough 1st Ward,Morrisville Senior Citizens Center,31 E Cleveland Ave Morrisville PA 19067,Morrisville
+24020,Morrisville Borough 2nd Ward,Morrisville Library Building,300 N Pennsylvania Ave Morrisville PA 19067,Morrisville
+24030,Morrisville Borough 3rd Ward,Morrisville High School,550 W Palmer St Morrisville PA 19067,Morrisville
+24040,Morrisville Borough 4th Ward,Grandview Elementary School,80 Grandview Ave Morrisville PA 19067,Morrisville
+25000,New Britain Borough,Lenape Valley Presbyterian Church,321 W Butler Ave New Britain PA 18901,New Britain
+26010,New Britain Twp. East,New Britain Township Building,207 Park Avenue Chalfont PA 18914,New Britain
+26021,New Britain Twp. West 1,Grace Community Church,300 Highpoint Dr Chalfont PA 18914,Chalfont
+26022,New Britain Twp. West 2,"Merck, Sharpe & Dohme Federal Credit Union","335 West Butler Avenue, Chalfont, PA 18914",Chalfont
+26031,New Britain Twp. South 1,Simon Butler Elementary School,200 Brittany Dr Chalfont PA 18914,Chalfont
+26032,New Britain Twp. South 2,Simon Butler Elementary School,200 Brittany Dr Chalfont PA 18914,Chalfont
+27000,New Hope Borough,New Hope Borough Community Room,125 New St New Hope PA 18938,New Hope
+28010,Newtown Borough 1st Ward,Newtown Fire Station,14 Liberty St Newtown PA 18940,Newtown
+28020,Newtown Borough 2nd Ward,Newtown Joint Municipal Authority,15 S Congress St Newtown PA 18940,Newtown
+29010,Newtown Twp. District 1,Newtown Middle School,116 Richboro Rd Newtown PA 18940,Newtown
+29020,Newtown Twp. District 2,American Legion Post #440,41 Linden Ave Newtown PA 18940,Newtown
+29030,Newtown Twp. District 3,Goodnoe Elementary School,298 Frost Ln Newtown PA 18940,Newtown
+29040,Newtown Twp. District 4,Newtown Middle School,116 Richboro Rd Newtown PA 18940,Newtown
+29050,Newtown Twp. District 5,Newtown Reformed Church,206 Buck Road Newtown PA 18940,Newtown
+29060,Newtown Twp. District 6,Goodnoe Elementary School,298 Frost Ln Newtown PA 18940,Newtown
+29070,Newtown Twp. District 7,Newtown Grant Homeowners Assoc Rec Center,360 Eagle Rd Newtown PA 18940,Newtown
+29080,Newtown Twp. District 8,Newtown Township Building,100 Municipal Dr Newtown PA 18940,Newtown
+30010,Nockamixon Twp. Nockamixon,Palisades High School,35 Church Hill Rd Kintnersville PA 18930,Kintnersville
+30020,Nockamixon Twp. Revere,Palisades High School,35 Church Hill Rd Kintnersville PA 18930,Kintnersville
+31010,Northampton Twp. District 1,Advent Lutheran Church,45 Worthington Mill Rd Richboro PA 18954,Richboro
+31020,Northampton Twp. District 2,Churchville Elementary School,100 New Rd Churchville PA 18966,Churchville
+31030,Northampton Twp. District 3,Hillcrest Elementary School,420 E Holland Rd Southampton PA 18966,Southampton
+31040,Northampton Twp. District 4,Maureen W. Welch Elementary School,750 New Rd Churchville PA 18966,Churchville
+31050,Northampton Twp. District 5,Holland Elementary School,597 Beverly Rd Holland PA 18966,Holland
+31060,Northampton Twp. District 6,Holland Elementary School,597 Beverly Rd Holland PA 18966,Richboro
+31070,Northampton Twp. District 7,Richboro Elementary School,"125 Upper Holland Road, Richboro, PA 18954",Richboro
+31080,Northampton Twp. District 8,Maureen W. Welch Elementary School,750 New Rd Churchville PA 18966,Churchville
+31090,Northampton Twp. District 9,Holland Middle School,400 E Holland Rd Holland PA 18966,Holland
+31100,Northampton Twp. District 10,Rolling Hills Elementary School,340 Middle Holland Rd Holland PA 18966,Holland
+31110,Northampton Twp. District 11,Tapestry Clubhouse,100 Independence Dr Holland PA 18966,Holland
+31120,Northampton Twp. District 12,Richboro Elementary School,"125 Upper Holland Road, Richboro, PA 18954",Richboro
+31130,Northampton Twp. District 13,Northampton Township Fire Company,283 Hatboro Rd Churchville PA 18966,Churchville
+31140,Northampton Twp. District 14,Village Shires Community Center #1,3001 E Village Rd Holland PA 18966,Holland
+31150,Northampton Twp. District 15,Northampton Township Building,55 Township Rd Richboro PA 18954,Richboro
+31160,Northampton Twp. District 16,Village Shires Community Center #1,3001 E Village Rd Holland PA 18966,Holland
+31170,Northampton Twp. District 17,Rolling Hills Elementary School,340 Middle Holland Rd Holland PA 18966,Holland
+31180,Northampton Twp. District 18,Northampton Township Building,55 Township Rd Richboro PA 18954,Richboro
+32000,Penndel Borough,Penndel Borough Hall,300 Bellevue Ave Penndel PA 19047,Penndel
+33010,Perkasie Borough 1st Ward,Perkasie Fire Company,100 N 5th St Perkasie PA 18944,Perkasie
+33020,Perkasie Borough 2nd Ward,Perkasie Borough Hall,620 W Chestnut St Perkasie PA 18944,Perkasie
+33030,Perkasie Borough 3rd Ward,St. Andrew's Lutheran Church,20 Dill Ave Perkasie PA 18944,Perkasie
+34010,Plumstead Twp. District 1,Point Pleasant Fire Company,6500 Point Pleasant Pike Point Pleasant PA 18950,Point Pleasant
+34020,Plumstead Twp. District 2,Plumsteadville Firehouse,5064 Stump Rd Plumsteadville PA 18949,Plumsteadville
+34030,Plumstead Twp. District 3,Tohickon Middle School,5051 Old Easton Rd Doylestown PA 18902,Doylestown
+34040,Plumstead Twp. District 4,Joseph E. Hanusey III Community Center,4757 Gordon Rd Doylestown PA 18902,Doylestown
+34050,Plumstead Twp. District 5,Tohickon Middle School,5051 Old Easton Rd Doylestown PA 18902,Doylestown
+35011,Quakertown Borough 1 - 1,West End Fire Company,1319 Park Ave Quakertown PA 18951,Quakertown
+35012,Quakertown Borough 1 - 2,Grundy House,1611 Park Ave Quakertown PA 18951,Quakertown
+35020,Quakertown Borough 2nd Ward,First United Church of Christ,151 S 4th St Quakertown PA 18951,Quakertown
+35030,Quakertown Borough 3rd Ward,Neidig Elementary School,201 N Penrose St Quakertown PA 18951,Quakertown
+35040,Quakertown Borough 4th Ward,Quakertown Elementary School,123 S 7th St Quakertown PA 18951,Quakertown
+36010,Richland Twp. District 1,Richland Elementary School,500 Fairview Ave Quakertown PA 18951,Quakertown
+36020,Richland Twp. District 2,Richland Township Building,1328 California Rd Quakertown PA 18951,Quakertown
+36030,Richland Twp. District 3,Grace Bible Fellowship Church,1811 N Old Bethlehem Pike Quakertown PA 18951,Quakertown
+36040,Richland Twp. District 4,First Church of the Brethren,455 Trumbauersville Rd Quakertown PA 18951,Quakertown
+37000,Richlandtown Borough,St. John's Activity Center,26 First Ave Richlandtown PA 18955,Richlandtown
+38000,Riegelsville Borough,Riegelsville Borough Hall,615 Easton Rd Riegelsville PA 18077,Riegelsville
+39010,Sellersville Borough District 1,Sellersville Fire Department,2 N Main St Sellersville PA 18960,Sellersville
+39020,Sellersville Borough District 2,St. Paul's United Church of Christ,104 Green St Sellersville PA 18960,Sellersville
+39030,Sellersville Borough District 3,Sellersville Fire Department,2 N Main St Sellersville PA 18960,Sellersville
+40000,Silverdale Borough,Silverdale Brethren in Christ Church,167 W Main St Silverdale PA 18962,Silverdale
+41011,Solebury Twp. Lower 1,Thompson Memorial Presbyterian Church,"1680 Aquetong Road, New Hope, PA 18938",New Hope
+41012,Solebury Twp. Lower 2,Thompson Memorial Presbyterian Church,"1680 Aquetong Road, New Hope, PA 18938",New Hope
+41020,Solebury Twp. Middle,Solebury Township Building,3092 Sugan Rd Solebury PA 18963,Solebury
+41030,Solebury Twp. Upper,Trinity Episcopal Church Solebury,6587 Upper York Rd Solebury PA 18963,Solebury
+42010,Springfield Twp. East,Springtown Fire Company,3010 Route 212 Springtown PA 18081,Springtown
+42020,Springfield Twp. Middle,Trinity Evangelical Lutheran Church,2170 Route 212 Coopersburg PA 18036,Coopersburg
+42030,Springfield Twp. West,Passer Community Center,2580 Richlandtown Pike Coopersburg PA 18036,Coopersburg
+43000,Telford Borough,Telford Borough Community Center,125 S Hamilton St Telford PA 18969,Telford
+44010,Tinicum Twp. Delaware,Delaware Valley Fire Company,75 Headquarters Rd Erwinna PA 18920,Erwinna
+44020,Tinicum Twp. Tinicum,Ottsville Fire Company,249 Durham Rd Ottsville PA 18942,Ottsville
+44030,Tinicum Twp. Tohickon,Tinicum Township Building,163 Municipal Rd Pipersville PA 18947,Pipersville
+45000,Trumbauersville Boro,Trumbauersville Borough Building,1 Evergreen Dr Trumbauersville PA 18970,Trumbauersville
+46000,Tullytown Borough,Tullytown Borough Hall,500 Main St Tullytown PA 19007,Tullytown
+47010,Upper Makefield Twp. District 1,Sol Feinstone Elementary School,1090 Eagle Rd Newtown PA 18940,Newtown
+47020,Upper Makefield Twp. District 2,Ascension Lutheran Church,900 Washington Crossing Rd Newtown PA 18940,Newtown
+47030,Upper Makefield Twp. District 3,Sol Feinstone Elementary School,1090 Eagle Rd Newtown PA 18940,Newtown
+47040,Upper Makefield Twp. District 4,Ascension Lutheran Church,900 Washington Crossing Rd Newtown PA 18940,Newtown
+48011,Upper Southampton Twp. East 1,Southampton Fire House,925 Street Rd Southampton PA 18966,Southampton
+48012,Upper Southampton Twp. East 2,North and Southampton Reformed Church,1380 Bristol Rd Churchville PA 18966,Churchville
+48021,Upper Southampton Twp. North 1,Upper Southampton Township Parks & Recreation,913 Willow St Southampton PA 18966,Southampton
+48022,Upper Southampton Twp. North 2,Klinger Middle School,1415 2nd Street Pike Southampton PA 18966,Southampton
+48023,Upper Southampton Twp. North 3,William W.H. Davis Elementary School,475 Maple Ave Southampton PA 18966,Southampton
+48024,Upper Southampton Twp. North 4,William W.H. Davis Elementary School,475 Maple Ave Southampton PA 18966,Southampton
+48031,Upper Southampton Twp. South 1,Southampton Fire House,925 Street Rd Southampton PA 18966,Southampton
+48032,Upper Southampton Twp. South 2,Southampton Fire House,925 Street Rd Southampton PA 18966,Southampton
+48041,Upper Southampton Twp. West 1,Upper Southampton Township Parks & Recreation,913 Willow St Southampton PA 18966,Southampton
+48042,Upper Southampton Twp. West 2,Upper Southampton Township Parks & Recreation,913 Willow St Southampton PA 18966,Southampton
+49010,Warminster Twp. District 1,Warminster Library,1076 Emma Ln Warminster PA 18974,Warminster
+49020,Warminster Twp. District 2,Warminster Community Center,75 Downey Dr Warminster PA 18974,Warminster
+49030,Warminster Twp. District 3,Warminster Presbyterian Church,500 Madison Ave Warminster PA 18974,Warminster
+49040,Warminster Twp. District 4,Warminster Township Building,401 Gibson Ave #1 Warminster PA 18974,Warminster
+49050,Warminster Twp. District 5,Everett A. McDonald Elementary School,666 Reeves Ln Warminster PA 18974,Warminster
+49060,Warminster Twp. District 6,Willow Dale Elementary School,720 N Norristown Rd Warminster PA 18974,Warminster
+49070,Warminster Twp. District 7,Seventh-Day Adventist Church,10 Greene Rd Warminster PA 18974,Warminster
+49080,Warminster Twp. District 8,Benjamin H. Wilson Senior Center,580 Delmont Ave Warminster PA 18974,Warminster
+49090,Warminster Twp. District 9,Log College Middle School,730 N Norristown Rd Warminster PA 18974,Warminster
+49100,Warminster Twp. District 10,William Tennent High School,333 Centennial Rd Warminster PA 18974,Warminster
+49110,Warminster Twp. District 11,Everett A. McDonald Elementary School,666 Reeves Ln Warminster PA 18974,Warminster
+49120,Warminster Twp. District 12,Benjamin H. Wilson Senior Center,580 Delmont Ave Warminster PA 18974,Warminster
+49130,Warminster Twp. District 13,Willow Dale Elementary School,720 N Norristown Rd Warminster PA 18974,Warminster
+49140,Warminster Twp. District 14,Ann's Choice Senior Living Community,"30000 Anns Choice Way, Warminster, PA 18974",Warminster
+49150,Warminster Twp. District 15,Log College Middle School,730 N Norristown Rd Warminster PA 18974,Warminster
+49160,Warminster Twp. District 16,William Tennent High School,333 Centennial Rd Warminster PA 18974,Warminster
+49170,Warminster Twp. District 17,Warminster Library,1076 Emma Ln Warminster PA 18974,Warminster
+50010,Warrington Twp. District 1,Warrington Township Building,852 Easton Rd Warrington PA 18976,Warrington
+50020,Warrington Twp. District 2,Central Bucks High School South,1100 Folly Rd Warrington PA 18976,Warrington
+50030,Warrington Twp. District 3,Warrington Fellowship Church,1455 Cooper Ln Warrington PA 18976,Warrington
+50040,Warrington Twp. District 4,Titus Elementary School,2333 Lower Barness Rd Warrington PA 18976,Warrington
+50050,Warrington Twp. District 5,Warrington Fellowship Church,1455 Cooper Ln Warrington PA 18976,Warrington
+50060,Warrington Twp. District 6,Central Bucks High School South,1100 Folly Rd Warrington PA 18976,Warrington
+50070,Warrington Twp. District 7,Central Bucks High School South,1100 Folly Rd Warrington PA 18976,Warrington
+50080,Warrington Twp. District 8,Warrington Fire Company,2310 Freedoms Way Warrington PA 18976,Warrington
+51010,Warwick Twp. District 1,Warwick Township Building,1733 Twp Green Jamison PA 18929,Jamison
+51020,Warwick Twp. District 2,St. Cyril of Jerusalem,1410 Almshouse Rd Jamison PA 18929,Jamison
+51030,Warwick Twp. District 3,Warwick township firehouse,2390 York Rd Jamison PA 18929,Jamison
+51040,Warwick Twp. District 4,Warwick Township Building,1733 Twp Green Jamison PA 18929,Jamison
+51050,Warwick Twp. District 5,St. Cyril of Jerusalem,1410 Almshouse Rd Jamison PA 18929,Jamison
+52010,West Rockhill Twp. Argus,St. John's Lutheran Church,910 Allentown Rd Sellersville PA 18960,Sellersville
+52020,West Rockhill Twp. Rockhill,Forrest Lodge VFW,2118 Old Bethlehem Pike Sellersville PA 18960,Sellersville
+53000,Wrightstown Twp.,Anchor Presbyterian Church,980 Durham Rd Newtown PA 18940,Wrightstown
+54000,Yardley Borough,Yardley-Makefield Fire Company,105 S Main St Yardley PA 19067,Yardley

@@ -1,0 +1,4 @@
+state_senate,D_registered,Oth_registered,R_registered,D_voted,Oth_voted,R_voted,D_turnout_pct,R_turnout_pct,Oth_turnout_pct,registered_total,voted_total,turnout_pct
+STS06,76687,32732,86540,42567,9750,43394,55.51,50.14,29.79,195959,95711,48.84
+STS10,90668,40027,75529,52064,13125,37389,57.42,49.5,32.79,206224,102578,49.74
+STS16,26288,14837,40267,15693,4551,20097,59.7,49.91,30.67,81392,40341,49.56

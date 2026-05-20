@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+
+# Optional local clutter
+output/maps_dem/
+output/maps_rep/

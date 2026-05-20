@@ -1,0 +1,4 @@
+state_senate,voters,voters_with_any_eligible_election,eligible_elections,voted_elections,eligible_primaries,voted_primaries,eligible_generals,voted_generals,eligible_midterm_primaries,voted_midterm_primaries,avg_eligible_elections_per_voter,avg_voted_elections_per_voter,avg_participation_pct_per_voter,participation_pct,primary_participation_pct,general_participation_pct,midterm_primary_participation_pct,registered_current_year_D,registered_current_year_Oth,registered_current_year_R,registered_current_year_total,registration_year
+STS06,195959,194100,2133313,929188,1054974,279817,1078339,649371,172996,56270,10.89,4.74,42.23,43.56,26.52,60.22,32.53,494,384,334,1212,2026
+STS10,206224,203777,2224583,984952,1099116,296667,1125467,688285,179926,58410,10.79,4.78,43.04,44.28,26.99,61.16,32.46,722,547,353,1622,2026
+STS16,81392,80548,887264,392226,438832,118638,448432,273588,72063,23867,10.9,4.82,42.92,44.21,27.03,61.01,33.12,188,216,170,574,2026
