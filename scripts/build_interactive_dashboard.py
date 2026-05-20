@@ -620,7 +620,6 @@ def main():
           direction: "auto",
           className: "result-tooltip"
         });
-        layer.bindPopup("");
       }
     }).addTo(map);
 
@@ -858,7 +857,6 @@ def main():
       geoLayer.eachLayer(function(layer) {
         layer.setStyle(styleFeature(layer.feature));
         layer.setTooltipContent(tooltipText(layer.feature));
-        layer.setPopupContent(popupHtml(layer.feature));
       });
 
       refreshSummary();
