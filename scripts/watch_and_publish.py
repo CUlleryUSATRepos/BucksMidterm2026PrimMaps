@@ -1,4 +1,5 @@
 ﻿from pathlib import Path
+import csv
 import subprocess
 import sys
 import time
@@ -8,6 +9,10 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 INTERVAL_SECONDS = 5 * 60
+
+CHANGE_LOG = ROOT / "output" / "processed" / "download_change_log.csv"
+SOUND_FILE = ROOT / "sadtrombone.swf.mp3"
+SOUND_SCRIPT = ROOT / "scripts" / "play_sound.ps1"
 
 
 def timestamp():
@@ -35,6 +40,62 @@ def has_git_changes():
     return bool(result.stdout.strip())
 
 
+def latest_download_status():
+    if not CHANGE_LOG.exists():
+        return None
+
+    with CHANGE_LOG.open("r", newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+
+    if not rows:
+        return None
+
+    return rows[-1]
+
+
+def play_update_sound():
+    if not SOUND_FILE.exists():
+        print("Sound file not found:", SOUND_FILE)
+        return
+
+    if not SOUND_SCRIPT.exists():
+        print("Sound script not found:", SOUND_SCRIPT)
+        return
+
+    print("Playing update sound:", SOUND_FILE)
+
+    subprocess.run(
+        [
+            "powershell",
+            "-ExecutionPolicy",
+            "Bypass",
+            "-File",
+            str(SOUND_SCRIPT),
+            "-SoundPath",
+            str(SOUND_FILE),
+        ],
+        cwd=ROOT,
+        check=False,
+    )
+
+
+def maybe_play_update_sound():
+    last = latest_download_status()
+
+    if not last:
+        print("No download-change log row found.")
+        return
+
+    status = str(last.get("status", "")).lower()
+    delta = str(last.get("delta_total_votes", "0"))
+
+    if status in {"changed", "first_file"}:
+        print(f"New results detected. Status={status}, delta_total_votes={delta}")
+        play_update_sound()
+    else:
+        print(f"No new vote changes detected. Status={status}, delta_total_votes={delta}")
+
+
 def commit_and_push():
     run(["git", "add", "Precincts_19.csv", "output/processed", "docs/index.html", "scripts"])
 
@@ -54,6 +115,9 @@ def one_cycle():
 
     # Downloads latest precinct CSV, copies it to Precincts_19.csv, and rebuilds docs/index.html.
     run([sys.executable, "scripts/download_latest_precinct_results.py"])
+
+    # Play sound only if the downloaded file actually changed.
+    maybe_play_update_sound()
 
     # Commit/push whatever changed, including timestamp update.
     commit_and_push()
